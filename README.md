@@ -29,7 +29,7 @@ Me especializo en **PHP (Laravel)**, **Java (Spring Boot MVC)**, **JavaScript (R
 - 🌱 Soy estudiante de **Análisis y Programación Computacional** y estoy aprendiendo **Python**.
 - 👯 Busco colaborar en proyectos sin fines de lucro.
 - 💬 Pregúntame sobre PHP, Java, JavaScript.
-- 📫 Cómo contactarme: s.quero.s@pm.me/https://www.linkedin.com/sebastianquero/
+- 📫 Cómo contactarme: [Correo](s.quero.s@pm.me) / [LinkedIn](https://www.linkedin.com/sebastianquero/)
 - 📄 Portafolio: (pendiente)...
 - ⚡ Dato curioso: soy una persona altruista, creo en las energías y el bienestar común.
 
@@ -79,11 +79,7 @@ Me especializo en **PHP (Laravel)**, **Java (Spring Boot MVC)**, **JavaScript (R
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
-![daily.dev](https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=daily.dev&logoColor=white)
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
 
 ## 📈 Estadísticas GitHub
 ![Tus Estadísticas](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
