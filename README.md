@@ -22,7 +22,7 @@
 ![]()
 
 ## 🚀 Sobre Mí
-Soy un **desarrollador Full Stack** . 
+Soy un **desarrollador full stack** . 
 Me especializo en **PHP (Laravel)**, **Java (Spring Boot MVC)**, **JavaScript (React)** con dos años de experiencia desarrollando aplicaciones web para la industria de emprendimiento e innovación.
 
 - 🔭 Actualmente trabajo de manera **freelance** diseñando sitios web con **Wordpress** y **Wix**.
