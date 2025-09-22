@@ -82,8 +82,8 @@ Me especializo en **PHP (Laravel)**, **Java (Spring Boot MVC)**, **JavaScript (R
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 
 ## 📈 Estadísticas GitHub
-![Tus Estadísticas](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical)
+![Tus Estadísticas](https://github-readme-stats.vercel.app/api?username=nox-e&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=nox-e&layout=compact&theme=radical)
 
 ## 🏆 Logros y Certificaciones
 <img src="https://res.cloudinary.com/certifier/image/upload/v1744809881/Participation_Spanish_4_2ff440a916.webp" width="350">
