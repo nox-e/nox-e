@@ -89,13 +89,15 @@ Me especializo en **PHP (Laravel)**, **Java (Spring Boot MVC)**, **JavaScript (R
 <img src="https://res.cloudinary.com/certifier/image/upload/v1744809881/Participation_Spanish_4_2ff440a916.webp" width="350">
 
 ## 🎯 Proyectos Destacados
-### 🔥 [E-Commerce Platform](https://github.com/tuusuario/ecommerce)
+### 🔥 [Password Generator](https://github.com/nox-e/password_generator)
 
-Plataforma completa de e-commerce con carrito, pasarela de pagos y panel admin.
-**Tecnologías:** React, Node.js, MongoDB, Stripe, JWT
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-2ea44f)](https://demo.com)
-[![GitHub](https://img.shields.io/badge/📁_Repository-181717)](https://github.com/tuusuario/ecommerce)
+Generador de contraseñas robusto desarrollado en Java. La aplicación presenta una interfaz gráfica moderna y responsive construida con la librería Swing.
+**Tecnologías:** Java, AWT, Swing  
+
+<img alt="generator" src="https://github.com/user-attachments/assets/6366bd8c-cc54-4a87-b6cc-bec737df6429" width="600px"/>
+
+[![GitHub](https://img.shields.io/badge/📁_Repository-181717)](https://github.com/nox-e/password_generator)
 
 ---
 
