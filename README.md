@@ -20,7 +20,7 @@ Me especializo en **PHP (Laravel)**, **Java (Spring Boot MVC)**, **JavaScript (R
 - 👯 Busco colaborar en proyectos sin fines de lucro.
 - 💬 Pregúntame sobre PHP, Java, JavaScript.
 - 📫 Cómo contactarme: **[Correo](mailto:s.quero.s@pm.me "s.quero.s@pm.me")** / **[LinkedIn](https://www.linkedin.com/sebastianquero/ "https://www.linkedin.com/sebastianquero/")**
-- 📄 Portafolio: (pendiente)...
+- 📄 Portafolio: [ Sebastián Quero | Portafolio ](https://nox-e.netlify.app/)
 - ⚡ Dato curioso: soy una persona altruista, creo en las energías y el bienestar común.
 
 ## 🛠️ Tech Stack
@@ -69,8 +69,10 @@ Me especializo en **PHP (Laravel)**, **Java (Spring Boot MVC)**, **JavaScript (R
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
 ## 📈 Estadísticas GitHub
-![Tus Estadísticas](https://github-readme-stats.vercel.app/api?username=nox-e&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=nox-e&show_icons=true&theme=radical)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=nox-e&layout=compact&theme=radical)
+![Trophy](https://github-profile-trophy.vercel.app/?username=nox-e&theme=onedark)
+
 
 ## 🏆 Logros y Certificaciones
 <img width="350" alt="Screenshot 2025-09-23 161726" src="https://github.com/user-attachments/assets/f8096ff7-3fd7-4435-8ab0-8584967096a6" />
