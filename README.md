@@ -33,8 +33,6 @@ Me especializo en **PHP (Laravel)**, **Java (Spring Boot MVC)**, **JavaScript (R
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### Backend
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Xampp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -75,11 +73,10 @@ Me especializo en **PHP (Laravel)**, **Java (Spring Boot MVC)**, **JavaScript (R
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=nox-e&layout=compact&theme=radical)
 
 ## 🏆 Logros y Certificaciones
-<img src="https://res.cloudinary.com/certifier/image/upload/v1744809881/Participation_Spanish_4_2ff440a916.webp" width="350">
+<img width="350" alt="Screenshot 2025-09-23 161726" src="https://github.com/user-attachments/assets/f8096ff7-3fd7-4435-8ab0-8584967096a6" />
 
 ## 🎯 Proyectos Destacados
 ### 🔥 [Password Generator](https://github.com/nox-e/password_generator)
-
 
 Generador de contraseñas robusto desarrollado en Java. La aplicación presenta una interfaz gráfica moderna y responsive construida con la librería Swing.
 **Tecnologías:** Java, AWT, Swing  
