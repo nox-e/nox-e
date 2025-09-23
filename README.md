@@ -29,7 +29,7 @@ Me especializo en **PHP (Laravel)**, **Java (Spring Boot MVC)**, **JavaScript (R
 - 🌱 Soy estudiante de **Análisis y Programación Computacional** y estoy aprendiendo **Python**.
 - 👯 Busco colaborar en proyectos sin fines de lucro.
 - 💬 Pregúntame sobre PHP, Java, JavaScript.
-- 📫 Cómo contactarme: **[Correo](s.quero.s@pm.me "s.quero.s@pm.me")** / **[LinkedIn](https://www.linkedin.com/sebastianquero/ "https://www.linkedin.com/sebastianquero/")**
+- 📫 Cómo contactarme: **[Correo](mailto:s.quero.s@pm.me "s.quero.s@pm.me")** / **[LinkedIn](https://www.linkedin.com/sebastianquero/ "https://www.linkedin.com/sebastianquero/")**
 - 📄 Portafolio: (pendiente)...
 - ⚡ Dato curioso: soy una persona altruista, creo en las energías y el bienestar común.
 
